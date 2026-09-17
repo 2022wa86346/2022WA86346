@@ -2,6 +2,6 @@ package com.bits;
  
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from BITS Jenkins CI!");
+        System.out.println("Hello from BITS Jenkins Continuous Integration!");
     }
 }
